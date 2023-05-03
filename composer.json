@@ -11,15 +11,9 @@
 		}
 	],
 	"require": {
-		"silverstripe/framework": "~4.0",
-		"codeception/codeception": "~2.3",
-		"phpunit/phpunit": "^5.7"
-	},
-	"extra": {
-		"installer-name": "test-assist",
-		"branch-alias": {
-			"dev-master": "4.1.x-dev"
-		}
+		"silverstripe/framework": "^4",
+		"codeception/codeception": "^5",
+		"phpunit/phpunit": "^9"
 	},
 	"autoload": {
 		"psr-4": {
